@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    background-color: rgb(48, 40, 40) !important;
+}
+*{
+    box-sizing: border-box;
+    
+
+}
+h1{
+    margin-bottom:13px !important;
+     color: white;
+}
+#parent{
+    border: brown solid 3px;
+    margin: 2% 22%;
+    padding: 4%;
+}
+button{
+    width: 100%;
+    background-color: rgb(121, 53, 41);
+    color: black;
+    border: black solid 1px !important;
+    border-radius: 20px !important;
+    font-size: 17pt !important;
+    transition: 0,5s;
+
+}
+button:hover{
+    background-color: tomato;
+}    
+input:hover{
+    border:solid 2px tomato;
+
+}
